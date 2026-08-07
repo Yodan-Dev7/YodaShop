@@ -1,0 +1,6 @@
+{
+  "name": "YodaShop E-Commerce",
+  "description": "Full-featured mobile and desktop e-commerce web application powered by YodaShop with authentication, search, category filters, cart persistence, profile, and interactive Peace & Wisdom widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
